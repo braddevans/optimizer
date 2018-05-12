@@ -1,3 +1,12 @@
+# Optimiser <img align="right" width="55" height="55" src="https://raw.githubusercontent.com/braddevans/optimizer/master/Optimizer/optimizer.ico">
+
+## TODO: ##
+1.fix rest if colors after changing background to a more friendly color.
+
+2.posibly change icon.
+
+
+
 ## Summary: ##
 
 Portable utility that helps you to restore your privacy and increase your security.
