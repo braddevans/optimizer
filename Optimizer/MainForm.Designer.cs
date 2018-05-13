@@ -296,7 +296,7 @@
             // txtBitness
             // 
             this.txtBitness.AutoSize = true;
-            this.txtBitness.ForeColor = System.Drawing.Color.Silver;
+            this.txtBitness.ForeColor = System.Drawing.Color.DarkCyan;
             this.txtBitness.Location = new System.Drawing.Point(235, 46);
             this.txtBitness.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.txtBitness.Name = "txtBitness";
@@ -307,7 +307,7 @@
             // txtOS
             // 
             this.txtOS.AutoSize = true;
-            this.txtOS.ForeColor = System.Drawing.Color.Silver;
+            this.txtOS.ForeColor = System.Drawing.Color.DarkCyan;
             this.txtOS.Location = new System.Drawing.Point(235, 26);
             this.txtOS.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.txtOS.Name = "txtOS";
@@ -318,7 +318,7 @@
             // txtVersion
             // 
             this.txtVersion.AutoSize = true;
-            this.txtVersion.ForeColor = System.Drawing.Color.Silver;
+            this.txtVersion.ForeColor = System.Drawing.Color.DarkCyan;
             this.txtVersion.Location = new System.Drawing.Point(86, 46);
             this.txtVersion.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.txtVersion.Name = "txtVersion";
@@ -385,7 +385,7 @@
             // 
             // universalTab
             // 
-            this.universalTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.universalTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.universalTab.Controls.Add(this.toggleSwitch33);
             this.universalTab.Controls.Add(this.toggleSwitch32);
             this.universalTab.Controls.Add(this.toggleSwitch12);
@@ -624,7 +624,7 @@
             // 
             // windowsXTab
             // 
-            this.windowsXTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.windowsXTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.windowsXTab.Controls.Add(this.toggleSwitch35);
             this.windowsXTab.Controls.Add(this.toggleSwitch34);
             this.windowsXTab.Controls.Add(this.toggleSwitch27);
@@ -971,7 +971,7 @@
             // 
             // windowsVIIITab
             // 
-            this.windowsVIIITab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.windowsVIIITab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.windowsVIIITab.Controls.Add(this.toggleSwitch31);
             this.windowsVIIITab.Controls.Add(this.button44);
             this.windowsVIIITab.Location = new System.Drawing.Point(4, 29);
@@ -1015,7 +1015,7 @@
             // 
             // modernAppsTab
             // 
-            this.modernAppsTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.modernAppsTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.modernAppsTab.Controls.Add(this.chkSelectAllModernApps);
             this.modernAppsTab.Controls.Add(this.label28);
             this.modernAppsTab.Controls.Add(this.button74);
@@ -1119,7 +1119,7 @@
             // 
             // listModernApps
             // 
-            this.listModernApps.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.listModernApps.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.listModernApps.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listModernApps.CheckOnClick = true;
             this.listModernApps.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -1136,7 +1136,7 @@
             // 
             // cleanerTab
             // 
-            this.cleanerTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.cleanerTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.cleanerTab.Controls.Add(this.cleaningpanel);
             this.cleanerTab.Controls.Add(this.label6);
             this.cleanerTab.Controls.Add(this.panel1);
@@ -1366,7 +1366,7 @@
             // 
             // startupTab
             // 
-            this.startupTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.startupTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.startupTab.Controls.Add(this.button64);
             this.startupTab.Controls.Add(this.button31);
             this.startupTab.Controls.Add(this.button37);
@@ -1450,7 +1450,7 @@
             // 
             // listStartupItems
             // 
-            this.listStartupItems.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.listStartupItems.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.listStartupItems.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listStartupItems.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnHeader1,
@@ -1536,7 +1536,7 @@
             // 
             // registryFixerTab
             // 
-            this.registryFixerTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.registryFixerTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.registryFixerTab.Controls.Add(this.panel2);
             this.registryFixerTab.Controls.Add(this.label7);
             this.registryFixerTab.Location = new System.Drawing.Point(4, 29);
@@ -1745,7 +1745,7 @@
             // 
             // hostsEditorTab
             // 
-            this.hostsEditorTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.hostsEditorTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.hostsEditorTab.Controls.Add(this.panel4);
             this.hostsEditorTab.Controls.Add(this.linkLabel4);
             this.hostsEditorTab.Controls.Add(this.label10);
@@ -1794,7 +1794,7 @@
             // 
             // listHostEntries
             // 
-            this.listHostEntries.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.listHostEntries.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.listHostEntries.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listHostEntries.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listHostEntries.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -1892,7 +1892,7 @@
             // 
             // txtIP
             // 
-            this.txtIP.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.txtIP.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.txtIP.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtIP.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtIP.ForeColor = System.Drawing.Color.White;
@@ -1905,7 +1905,7 @@
             // 
             // txtDomain
             // 
-            this.txtDomain.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.txtDomain.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.txtDomain.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtDomain.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDomain.ForeColor = System.Drawing.Color.White;
@@ -2030,7 +2030,7 @@
             // 
             // integratorTab
             // 
-            this.integratorTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.integratorTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.integratorTab.Controls.Add(this.synapse);
             this.integratorTab.Location = new System.Drawing.Point(4, 29);
             this.integratorTab.Margin = new System.Windows.Forms.Padding(2);
@@ -2059,7 +2059,7 @@
             // 
             // integratorInfoTab
             // 
-            this.integratorInfoTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.integratorInfoTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.integratorInfoTab.Controls.Add(this.label19);
             this.integratorInfoTab.Controls.Add(this.label18);
             this.integratorInfoTab.Controls.Add(this.label17);
@@ -2166,7 +2166,7 @@
             // 
             // tabPage8
             // 
-            this.tabPage8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.tabPage8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.tabPage8.Controls.Add(this.btnAddItem);
             this.tabPage8.Controls.Add(this.itemnamegroup);
             this.tabPage8.Controls.Add(this.security);
@@ -2216,7 +2216,7 @@
             // 
             // txtItemName
             // 
-            this.txtItemName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.txtItemName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.txtItemName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtItemName.ForeColor = System.Drawing.Color.White;
             this.txtItemName.Location = new System.Drawing.Point(14, 32);
@@ -2360,7 +2360,7 @@
             // 
             // txtIcon
             // 
-            this.txtIcon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.txtIcon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.txtIcon.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtIcon.Enabled = false;
             this.txtIcon.ForeColor = System.Drawing.Color.White;
@@ -2406,7 +2406,7 @@
             // 
             // txtItem
             // 
-            this.txtItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.txtItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.txtItem.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtItem.ForeColor = System.Drawing.Color.White;
             this.txtItem.Location = new System.Drawing.Point(14, 32);
@@ -2516,7 +2516,7 @@
             // 
             // tabPage9
             // 
-            this.tabPage9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.tabPage9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.tabPage9.Controls.Add(this.panel5);
             this.tabPage9.Controls.Add(this.button60);
             this.tabPage9.Controls.Add(this.button61);
@@ -2542,7 +2542,7 @@
             // 
             // listDesktopItems
             // 
-            this.listDesktopItems.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.listDesktopItems.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.listDesktopItems.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listDesktopItems.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listDesktopItems.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -2622,7 +2622,7 @@
             // 
             // tabPage10
             // 
-            this.tabPage10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.tabPage10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.tabPage10.Controls.Add(this.button65);
             this.tabPage10.Controls.Add(this.button66);
             this.tabPage10.Controls.Add(this.label24);
@@ -2868,7 +2868,7 @@
             // 
             // tabPage11
             // 
-            this.tabPage11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.tabPage11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.tabPage11.Controls.Add(this.panel6);
             this.tabPage11.Controls.Add(this.button26);
             this.tabPage11.Controls.Add(this.button8);
@@ -2900,7 +2900,7 @@
             // 
             // listCustomCommands
             // 
-            this.listCustomCommands.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.listCustomCommands.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.listCustomCommands.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listCustomCommands.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listCustomCommands.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -2997,7 +2997,7 @@
             // 
             // txtRunKeyword
             // 
-            this.txtRunKeyword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.txtRunKeyword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.txtRunKeyword.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtRunKeyword.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtRunKeyword.ForeColor = System.Drawing.Color.White;
@@ -3021,7 +3021,7 @@
             // 
             // txtRunFile
             // 
-            this.txtRunFile.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.txtRunFile.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.txtRunFile.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtRunFile.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtRunFile.ForeColor = System.Drawing.Color.White;
@@ -3059,7 +3059,7 @@
             // 
             // optionsTab
             // 
-            this.optionsTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.optionsTab.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.optionsTab.Controls.Add(this.btnChangelog);
             this.optionsTab.Controls.Add(this.btnUpdate);
             this.optionsTab.Controls.Add(this.btnResetConfig);
@@ -3294,7 +3294,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(185)))), ((int)(((byte)(186)))));
             this.ClientSize = new System.Drawing.Size(872, 759);
             this.Controls.Add(this.bpanel);
             this.Controls.Add(this.tpanel);

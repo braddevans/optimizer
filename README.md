@@ -1,12 +1,3 @@
-# Optimiser <img align="right" width="55" height="55" src="https://raw.githubusercontent.com/braddevans/optimizer/master/Optimizer/optimizer.ico">
-
-## TODO: ##
-1.fix rest if colors after changing background to a more friendly color.
-
-2.posibly change icon.
-
-
-
 ## Summary: ##
 
 Portable utility that helps you to restore your privacy and increase your security.
@@ -14,6 +5,14 @@ Portable utility that helps you to restore your privacy and increase your securi
 Optimizer is recommended after a fresh, clean installation of Windows to achieve maximum privacy and security.
 
 Depending on your version of Windows, Optimizer will also allow you to perform some specific tweaks.
+
+## Updates/TODO: ##
+
+1. fix gui coloring
+
+2. etc
+
+3. etc
 
 ## Features: ##
 
